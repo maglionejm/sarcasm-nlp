@@ -11,3 +11,5 @@ Ahora que ya tenemos una base respecto al preprocesamiento, hoy podremos ver có
 Data a utilizar:
 - [sarcasm.json](https://raw.githubusercontent.com/maglionejm/sarcasm-nlp/main/sarcarsm.json)
 
+[Data source context & information] (https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+
