@@ -13,3 +13,7 @@ Data a utilizar:
 
 [Data source context & information](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 
+
+
+LINKS DE AYUDA:
+https://www.tensorflow.org/text/guide/tokenizers
